@@ -1,0 +1,120 @@
+{
+  "offices": [
+    {
+      "id": 1,
+      "address": "",
+      "doctor_name": "",
+      "updated": 1534859482
+    },
+    {
+      "id": 2,
+      "address": "",
+      "doctor_name": "",
+      "updated": 1534859482
+    },
+    {
+      "id": 3,
+      "address": "",
+      "doctor_name": "",
+      "updated": ""
+    },
+    {
+      "id": 4,
+      "address": "",
+      "doctor_name": "",
+      "updated": ""
+    },
+    {
+      "id": 5,
+      "address": "",
+      "doctor_name": "",
+      "updated": ""
+    }
+  ],
+  "timeslots": [
+    {
+      "id": 1,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 2,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 1,
+      "updated": 1245582665
+    },
+    {
+      "id": 3,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 9,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 10,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 11,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 12,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 1,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 1,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    },
+    {
+      "id": 1,
+      "officeId": 1,
+      "date_time": 1534859482,
+      "blocked": 0,
+      "updated": 1245582665
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "timeslotId": 1,
+      "user_name": "علی سرچاهی",
+      "practice_name": "ارتودنسی",
+      "checked": 0,
+      "canceled": 1,
+      "canceled_by": "علی سرچاهی",
+      "cancel_description": "ترافیک",
+      "visited": null,
+      "updated": 1534859482
+    }
+  ]
+}
