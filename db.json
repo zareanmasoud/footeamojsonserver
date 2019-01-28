@@ -1,33 +1,114 @@
 {
-  "offices": [
+  "galleries": [
     {
       "id": 1,
       "address": "تهران - نیاوران - پلاک ۳۲",
-      "doctor_name": "دکتر احمدی",
+      "artist": "دکتر احمدی",
+      "title": "Beautiful and dramatic Antelope Canyon",
+      "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+      "illustration": "https://picsum.photos/400/300/?random",
       "updated": 1534859482
     },
     {
       "id": 2,
       "address": "تهران - ولنجک - پلاک ۲",
-      "doctor_name": "دکتر نیما افشار",
+      "artist": "دکتر نیما افشار",
+      "illustration": "https://picsum.photos/400/300/?random",
       "updated": 1534859482
     },
     {
       "id": 3,
       "address": "کرج - مرکزی - پلاک ۱",
-      "doctor_name": "دکتر مصدق",
+      "artist": "دکتر مصدق",
+      "illustration": "https://picsum.photos/400/300/?random",
       "updated": 1534859482
     },
     {
       "id": 4,
       "address": "تهران - قیطریه - پلاک ۵",
-      "doctor_name": "دکتر مجد",
+      "artist": "دکتر مجد",
+      "illustration": "https://picsum.photos/400/300/?random",
       "updated": 1534859482
     },
     {
       "id": 5,
       "address": "اصفهان - میرداماد - پلاک ۳۳",
-      "doctor_name": "دکتر ابتکار",
+      "artist": "دکتر ابتکار",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 6,
+      "address": "تهران - نیاوران - پلاک ۳۲",
+      "artist": "دکتر احمدی",
+      "title": "Beautiful and dramatic Antelope Canyon",
+      "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 7,
+      "address": "تهران - ولنجک - پلاک ۲",
+      "artist": "دکتر نیما افشار",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 8,
+      "address": "کرج - مرکزی - پلاک ۱",
+      "artist": "دکتر مصدق",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 9,
+      "address": "تهران - قیطریه - پلاک ۵",
+      "artist": "دکتر مجد",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 10,
+      "address": "اصفهان - میرداماد - پلاک ۳۳",
+      "artist": "دکتر ابتکار",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 11,
+      "address": "تهران - نیاوران - پلاک ۳۲",
+      "artist": "دکتر احمدی",
+      "title": "Beautiful and dramatic Antelope Canyon",
+      "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 12,
+      "address": "تهران - ولنجک - پلاک ۲",
+      "artist": "دکتر نیما افشار",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 13,
+      "address": "کرج - مرکزی - پلاک ۱",
+      "artist": "دکتر مصدق",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 14,
+      "address": "تهران - قیطریه - پلاک ۵",
+      "artist": "دکتر مجد",
+      "illustration": "https://picsum.photos/400/300/?random",
+      "updated": 1534859482
+    },
+    {
+      "id": 15,
+      "address": "اصفهان - میرداماد - پلاک ۳۳",
+      "artist": "دکتر ابتکار",
+      "illustration": "https://picsum.photos/400/300/?random",
       "updated": 1534859482
     }
   ],
@@ -125,12 +206,12 @@
       "updated": 1539018000
     }
   ],
-  "bookings": [
+  "handicrafts": [
     {
       "id": 1,
       "timeslotId": 1,
-      "officeId": 1,
-      "user": {
+      "galleryId": 1,
+      "artist": {
         "id": 1,
         "username": "sarchahiali",
         "name": "علی سرچاهی",
@@ -150,7 +231,7 @@
     {
       "id": 2,
       "timeslotId": 1,
-      "officeId": 1,
+      "galleryId": 1,
       "user": {
         "id": 1,
         "username": "sarchahiali",
@@ -171,7 +252,7 @@
     {
       "id": 22,
       "timeslotId": 1,
-      "officeId": 1,
+      "galleryId": 1,
       "user": {
         "id": 1,
         "username": "sarchahiali",
@@ -192,7 +273,7 @@
     {
       "id": 3,
       "timeslotId": 1,
-      "officeId": 2,
+      "galleryId": 2,
       "user": {
         "id": 1,
         "username": "barghianamirhosein",
@@ -213,7 +294,7 @@
     {
       "id": 4,
       "timeslotId": 1,
-      "officeId": 2,
+      "galleryId": 2,
       "user": {
         "id": 1,
         "username": "sarchahiali",
@@ -234,7 +315,7 @@
     {
       "id": 5,
       "timeslotId": 2,
-      "officeId": 1,
+      "galleryId": 1,
       "user": {
         "id": 1,
         "username": "sarchahiali",
