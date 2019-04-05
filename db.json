@@ -562,6 +562,52 @@
       "image_src": "https://picsum.photos/400/300/?random"
     }
   ],
+  "leagues": [
+    {
+      "id": 1,
+      "title": "لیگ انگلیس"
+    },
+    {
+      "id": 2,
+      "title": "لالیگا"
+    },
+    {
+      "id": 3,
+      "title": "بوندسلیگا"
+    },
+    {
+      "id": 4,
+      "title": "لیگ ایران"
+    },
+    {
+      "id": 5,
+      "title": "سری آ"
+    },
+    {
+      "id": 6,
+      "title": "لیگ هلند"
+    },
+    {
+      "id": 7,
+      "title": "لیگ قهرمانان"
+    },
+    {
+      "id": 8,
+      "title": "لیگ روسیه"
+    }
+  ],
+  "seasons": [
+    {
+      "id": 1,
+      "leagueId": 1,
+      "title": "فصل ۲۰۱۹ - ۲۰۱۸"
+    },
+    {
+      "id": 2,
+      "leagueId": 1,
+      "title": "فصل ۲۰۱۸ - ۲۰۱۷"
+    }
+  ],
   "handicrafts": [
     {
       "id": 1,
